@@ -1,0 +1,17 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bl": "^1.2.2",
+    "moment": "^2.22.0",
+    "through2-map": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
